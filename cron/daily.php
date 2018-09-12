@@ -1,7 +1,7 @@
 <?php
 	
-	require_once '../includes/autoload.php';
-	require_once '../includes/CryptoAuth.php';
+	require_once __DIR__.'/../includes/autoload.php';
+	require_once __DIR__.'/../includes/CryptoAuth.php';
 	
 	
 	
